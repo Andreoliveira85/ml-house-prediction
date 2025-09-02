@@ -2,7 +2,7 @@
 full DSML project for IH students
 
 
-## Commands to run if you want to launch coude from files in your local machine:
+## Commands to run if you want to launch code from files in your local machine:
 
 * python3 -m venv venv
 * source venv/bin/activate

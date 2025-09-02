@@ -1,0 +1,13 @@
+# .gcloudignore
+.git/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# keep your model files
+!models/**
+!*.joblib
+!*.pkl
+!*.sav
